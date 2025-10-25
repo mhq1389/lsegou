@@ -6,6 +6,11 @@
 			"api": "https://iqiyizyapi.com/api.php/provide/vod",
 			"detail": "https://iqiyizyapi.com"
 		},
+		 "laosehu": {            
+"name": "TV-茶杯狐",            
+"api": "http://caihy.zone.id/%E8%8C%B6%E6%9D%AF%E7%8B%90.php?filter=true",            
+"detail": ""        
+},
 		"caijidb": {
 			"name": "🎬豆瓣资源",
 			"api": "https://caiji.dbzy5.com/api.php/provide/vod",
@@ -388,3 +393,4 @@
 		}
 	}
 }
+
